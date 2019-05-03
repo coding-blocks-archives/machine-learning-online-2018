@@ -4,7 +4,7 @@
 This online Machine Learning course by Coding Blocks is one of its kind. The course comprising of over 200 recorded tutorials and 15 projects for teaching, boasts of an all-exhaustive and highly comprehensive curriculum. The Machine Learning online course starts with the essentials of Python, gradually moving towards to concepts of advanced algorithms and finally into the cores of Machine Learning. With our key focus being the live projects, we dive deeper into the fundamentals of Regression Techniques and Neural Networks enabling the students to work out optimizing solutions to the real-world problems. It is just a matter of weeks before the students actually begin building intelligent systems, working on AI algorithms and data crunching. As a part of these online Machine Learning classes, a detailed overview of the programming fundamentals and Python Basics would be covered with the students so as to make them grasp the concepts of Machine Learning quickly and effortlessly. The course is taught by [*Prateek Narang*](http://prateeknarang.com) who is famous for his interactive teaching methods, and is doing an MS in Deep Learning from IIT Delhi.
  
 **Course Contents**
--------------------------
+-------------------
 The course is broadly divided in 6 categories, each of the topic is present as a section in the course.
 
 *Part 1. Introduction to Machine Learning*
@@ -57,6 +57,22 @@ The course is broadly divided in 6 categories, each of the topic is present as a
 - Basics of Reinforcement Learning
 - Q Learning
 - Building AI for Games
+
+### Libraries, Frameworks
+- Most of the course codes are build from scratch but we will also teach you how to work with
+the following libraries.
+1. Pandas (Data Handling)
+2. Matplotlib (Data Visualisation)
+3. Numpy (Maths)
+4. Keras (Deep learning)
+5. Tensorflow(Introduction)
+6. Sci-kit Learn(ML Algorithms)
+6. OpenAI Gym (Reinforcement Learning)
+
+### Pre-requisites
+- Familiar with writing Code in any programming language, Python preferred but not mandatory
+- Practical Knowledge of Data Structures, OOP's Concepts
+- Familiar with VCS like Git/Github
 
 
 ### 15 Mini Course Projects
