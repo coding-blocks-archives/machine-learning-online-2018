@@ -5,7 +5,7 @@ This online Machine Learning course by Coding Blocks is one of its kind. The cou
  
 **Course Contents**
 -------------------
-The course is broadly divided in 6 categories, each of the topic is present as a section in the course.
+The course is broadly divided in 7 categories, each of the topic is present as a section in the course.
 
 *Part 1. Introduction to Machine Learning*
 1. Python Recap
@@ -30,7 +30,7 @@ The course is broadly divided in 6 categories, each of the topic is present as a
 - Autoencoders(Deep Learning)
 - Generative Adversial Networks(Deep Learning)
 
-*Part 3. Deep Learning*
+*Part 4. Deep Learning*
 - Deep Learning Fundamentals
 - Keras Framework, Tensorflow Basics
 - Neural Networks Basics
@@ -38,13 +38,13 @@ The course is broadly divided in 6 categories, each of the topic is present as a
 - Multilayer Perceptrons
 - Optimizers, Loss Functions
 
-*Part 4. Deep Learning in Computer Vision*
+*Part 5. Deep Learning in Computer Vision*
 - Convolution Neural Networks
 - Image Classification Pipeline
 - Alexnet, VGG, Resnet, Inception
 - Transfer Learning & Fine Tuning
 
-*Part 5. Deep Learning Natural Language Processing*
+*Part 6. Deep Learning Natural Language Processing*
 - Sequence Models
 - Recurrent Neural Networks
 - LSTM Based Models
@@ -53,7 +53,7 @@ The course is broadly divided in 6 categories, each of the topic is present as a
 - Word Embeddings
 - Langauge Models
 
-*Part 6. Reinforcement Learning*
+*Part 7. Reinforcement Learning*
 - Basics of Reinforcement Learning
 - Q Learning
 - Building AI for Games
@@ -75,27 +75,31 @@ the following libraries.
 - Familiar with VCS like Git/Github
 
 
-### 15 Mini Course Projects
----------------------------
+### 20 Mini Projects in course!
+-------------------------------
 1. Hardwork Pays Off (Regression Prediction)
 2. Air Quality Prediction (Multivariate Regression)
 3. Separating Chemicals (Logistic Regression)
 4. Face Recognition (OpenCV, K-Nearest Neighbours)
-5. Naive Bayes Mushroom Classification
-6. Movie Review Prediction (Naive Bayes, LSTM etc)
-7. Image Dominant Color Extraction (K-Means)
-8. Image Classification using SVM
-9. Non-Linear Data Separation using MLP
-10. Pokemon Classification using CNN, Transfer Learning
-11. Sentiment Analysis using MLP, LSTM
-12. Text/Lyrics Generation using Markov Chains
-13. Emoji Prediction using Transfer Learning & LSTM
-14. Odd One Out & Word Analogies (Word2Vec & Embeddings)
-15. Reinforcement Learning based Cartpole Game Player
+5. Handwritten Digits Classifier
+6. Naive Bayes Mushroom Classification
+7. Movie Review Prediction (Naive Bayes, LSTM etc)
+8. Image Dominant Color Extraction (K-Means)
+9. Image Classification using SVM
+10. Titanic Survivor Prediction using Decision Trees
+11. Diabetic Patients Classification
+12. Non-Linear Data Separation using MLP
+13. Pokemon Classification using CNN, Transfer Learning
+14. Sentiment Analysis using MLP, LSTM
+15. Text/Lyrics Generation using Markov Chains
+16. Emoji Prediction using Transfer Learning & LSTM
+17. Odd One Out (Word2Vec)
+18. Bollywood Word Analgoies (Word Embeddings)
+19. Generating Cartoon Avatars using GAN's (Generative Adversial Networks)
+20. Reinforcement Learning based Cartpole Game Player
+
 
 Final Project
 ----------------
 **Image Captioning**
 Generating Captions for images using CNN & LSTM on Flickr8K dataset.
-
-
