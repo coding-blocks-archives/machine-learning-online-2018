@@ -7,14 +7,14 @@ This online Machine Learning course by Coding Blocks is one of its kind. The cou
 -------------------------
 The course is broadly divided in 6 categories, each of the topic is present as a section in the course.
 
-Part 1. Introduction to Machine Learning
+*Part 1. Introduction to Machine Learning*
 1. Python Recap
 2. Intermediate Python
 3. Machine Learning Introduction
 4. Data Generation & Visualisation
 5. Linear Algebra in Python
 
-Part 2. Supervised Learning Algorithms
+*Part 2. Supervised Learning Algorithms*
 - Linear Regression
 - Locally Weighted Regression
 - Multivariate Regression
@@ -24,13 +24,13 @@ Part 2. Supervised Learning Algorithms
 - Support Vector Machines
 - Decision Trees & Random Forests
 
-Part 3. Unsupervised Learning
+*Part 3. Unsupervised Learning*
 - K-Means
 - Principal Component Analysis
 - Autoencoders(Deep Learning)
 - Generative Adversial Networks(Deep Learning)
 
-Part 3. Deep Learning
+*Part 3. Deep Learning*
 - Deep Learning Fundamentals
 - Keras Framework, Tensorflow Basics
 - Neural Networks Basics
@@ -38,13 +38,13 @@ Part 3. Deep Learning
 - Multilayer Perceptrons
 - Optimizers, Loss Functions
 
-Part 4. Deep Learning in Computer Vision
+*Part 4. Deep Learning in Computer Vision*
 - Convolution Neural Networks
 - Image Classification Pipeline
 - Alexnet, VGG, Resnet, Inception
 - Transfer Learning & Fine Tuning
 
-Part 5. Deep Learning Natural Language Processing
+*Part 5. Deep Learning Natural Language Processing*
 - Sequence Models
 - Recurrent Neural Networks
 - LSTM Based Models
@@ -53,7 +53,7 @@ Part 5. Deep Learning Natural Language Processing
 - Word Embeddings
 - Langauge Models
 
-Part 6. Reinforcement Learning
+*Part 6. Reinforcement Learning*
 - Basics of Reinforcement Learning
 - Q Learning
 - Building AI for Games
