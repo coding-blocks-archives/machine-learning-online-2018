@@ -30,4 +30,5 @@ def marks():
 
 if __name__ == '__main__':
 	# app.debug = True
-	app.run(debug = True)
+	# due to versions of keras we need to pass another paramter threaded = Flase to this run function
+	app.run(debug = False, threaded = False)
